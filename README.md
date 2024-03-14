@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm KM Fazle from Minnesota, United States<br>- 🔭 I’m Studying Computer science<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time I learn new stuffs</p>
+<p align="left">I'm KM Fazle from Minnesota, United States.<br>- 🔭 I’m Studying Computer science<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time I learn new stuffs</p>
 
 ###
 
@@ -113,10 +113,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=km-fazle&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/km-fazle/km-fazle/output/snake.svg" alt="Snake animation" />
 
 ###
 
