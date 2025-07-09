@@ -5,7 +5,7 @@
 ### 💻 Computer Science Student | 📊 Data Science Enthusiast | 🚀 Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=635&lines=Computer+Science+Student;Data+Science+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=335&lines=Computer+Science+Student;Data+Science+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
